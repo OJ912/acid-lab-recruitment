@@ -46,7 +46,7 @@ export const TIMELINE: RecruitmentStep[] = [
       "工具：金山打字通。",
       "内容：中文文稿一篇，英文文稿一篇。",
       "标准：中文 ≥ 50 字/分钟，英文 ≥ 100 词/分钟。",
-      "说明：通过此关即被视为实验室的“好苗子”，95%概率成为实验室成员。"
+      "说明：通过此关即被视为实验室的“好苗子”，99%概率成为实验室成员。"
     ],
     tags: ["SPEED", "EFFICIENCY", "KEYBOARD_WARRIOR"]
   },
@@ -57,8 +57,8 @@ export const TIMELINE: RecruitmentStep[] = [
     icon: "rocket",
     description: [
       "内容：学习HTML+CSS，开发AI聊天机器人。",
-      "形式：线下辅导 -> 作品开发 -> 部署上线。",
-      "结果：深度体验AI开发，形成闭环。"
+      "形式：线下辅导 -> 作品开发 -> 线下展示。",
+      "结果：这一关其实不筛人，只是通过实战让你学技能，并且了解自己是否对编程实战感兴趣。"
     ],
     tags: ["DEV", "AI_AGENT", "DEPLOY"]
   }
