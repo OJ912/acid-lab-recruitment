@@ -1,14 +1,14 @@
 import { RecruitmentStep, ImageAsset } from './types';
 
 export const IMAGES: ImageAsset[] = [
-  { src: "/img/a-3d-rendered-scene-of-a-college-student_wxqJ8RfES-uEUMGW_JlJVg_oHzHHJ5rSSqJKA56nzHS5g.jpeg", alt: "AI Collaboration" },
+  { src: "/public/img/a-3d-rendered-scene-of-a-college-student_wxqJ8RfES-uEUMGW_JlJVg_oHzHHJ5rSSqJKA56nzHS5g.jpeg", alt: "AI Collaboration" },
   { src: "https://image.pollinations.ai/prompt/diverse%20group%20students%20coding%20join%20us%203d%20render?width=1280&height=720&nologo=true", alt: "Join Us" },
-  { src: "/img/a-funny-flat-illustration-a-large-muscul_RYVttkpXQcKxZHO54PLdcQ_DKN4IKA5SZ6CV4JMkNZGGA.jpeg", alt: "Python vs C" },
+  { src: "/public/img/a-funny-flat-illustration-a-large-muscul_RYVttkpXQcKxZHO54PLdcQ_DKN4IKA5SZ6CV4JMkNZGGA.jpeg", alt: "Python vs C" },
   { src: "https://image.pollinations.ai/prompt/neon%20lab%20recruitment%20sign%20cyberpunk?width=1280&height=720&nologo=true", alt: "Lab Sign" },
-  { src: "/img/a-funny-flat-illustration-a-large-muscul_RYVttkpXQcKxZHO54PLdcQ_DKN4IKA5SZ6CV4JMkNZGGA.jpeg", alt: "Learning Python" },
+  { src: "/public/img/a-funny-flat-illustration-a-large-muscul_RYVttkpXQcKxZHO54PLdcQ_DKN4IKA5SZ6CV4JMkNZGGA.jpeg", alt: "Learning Python" },
   { src: "https://image.pollinations.ai/prompt/digital%20brain%20schematic%20blue%20neon?width=1280&height=720&nologo=true", alt: "Digital Brain" },
-  { src: "/img/an-isometric-3d-illustration-in-a-minima_FlhuG4cHR8OqLx77s120Ag_BNy20SWCR1-QP34gRVV6_w.jpeg", alt: "Python Logic Exam" },
-  { src: "/img/a-dynamic-close-up-photograph-of-hands-t_mV6eUB4EQWSGnaRVYDZKCA_bhxTn1hzRaWvGRyIorKj1Q.jpeg", alt: "100 WPM Typing Speed" },
+  { src: "/public/img/an-isometric-3d-illustration-in-a-minima_FlhuG4cHR8OqLx77s120Ag_BNy20SWCR1-QP34gRVV6_w.jpeg", alt: "Python Logic Exam" },
+  { src: "/public/img/a-dynamic-close-up-photograph-of-hands-t_mV6eUB4EQWSGnaRVYDZKCA_bhxTn1hzRaWvGRyIorKj1Q.jpeg", alt: "100 WPM Typing Speed" },
 ];
 
 export const TIMELINE: RecruitmentStep[] = [
